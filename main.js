@@ -34,6 +34,10 @@ function showForm(type) {
                 <div class="slider" id="actionSlider"></div>
             </div>
             <div class="slider-container">
+                <label for="production">Постановка/Логика - 5</label>
+                <div class="slider" id="logicSlider"></div>
+            </div>
+            <div class="slider-container">
                 <label for="production">Общие впечатления/Эмоции - 5</label>
                 <div class="slider" id="emotionSlider"></div>
             </div>

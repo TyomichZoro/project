@@ -113,22 +113,6 @@ input[type="number"]:focus {
     margin-top: 20px;
 }
 
-/* Стили для футера */
-footer {
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    padding: 10px 0;
-    z-index: 9999; /* установим высокий z-index, чтобы футер был поверх других элементов */
-}
-
-footer p {
-    color: #fff;
-    font-size: 14px;
-    margin: 0;
-}
 
 /* Для скрытых элементов */
 .hidden {
